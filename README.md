@@ -2,6 +2,8 @@
 
 This repository demonstrates the implementation of Software Design and Architecture (SDA) principles in a News App.
 
+[![Watch the video](https://img.youtube.com/vi/ZsrqKT9gK2E/maxresdefault.jpg)](https://youtu.be/ZsrqKT9gK2E)
+
 ## Features
 - View latest news
 - Filter news by categories
