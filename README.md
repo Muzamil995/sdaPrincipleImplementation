@@ -1,16 +1,32 @@
-# sdaassignmenttwo
+# SDA Principle Implementation - News App
 
-A new Flutter project.
+This repository demonstrates the implementation of Software Design and Architecture (SDA) principles in a News App.
+
+## Features
+- View latest news
+- Filter news by categories
+- Search news by keywords
+- Bookmark and share news articles
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- [Flutter](https://flutter.dev/) installed
+- Emulator or modern web browser
 
-A few resources to get you started if this is your first Flutter project:
+### Setup Instructions
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Muzamil995/sdaPrincipleImplementation.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd sdaPrincipleImplementation
+    ```
+3. Run the app:
+    ```bash
+    flutter run
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Feel free to open pull requests and issues.
