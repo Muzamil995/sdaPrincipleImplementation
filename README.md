@@ -1,12 +1,23 @@
 # Project Title
 
 ## Description
-This project implements the principles of Software Development Architecture (SDA). It aims to provide a clear understanding of the architecture's components and their interactions.
+This project implements principles of Software Development Architecture (SDA), providing a clear understanding of architectural components and their interactions.
 
 ## Installation
-To set up the project, clone the repository and install dependencies. Replace `username/repository` with your actual GitHub username and repository name.
+To set up the project, follow these steps:
 
-```bash
-git clone https://github.com/username/repository.git
-cd repository
-# Run any necessary installation commands here
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/username/repository.git
+    cd repository
+    ```
+
+2. Install dependencies:
+    ```bash
+    # Add specific installation commands here, if applicable
+    ```
+
+## Video Overview
+[![Watch the video](https://img.youtube.com/vi/Jndfw4g9thM/0.jpg)](https://youtu.be/Jndfw4g9thM?si=FFLJv8kGHFmAX1Hp)
+
+Click on the image above to watch a video overview of the project.
